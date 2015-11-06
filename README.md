@@ -1,5 +1,4 @@
 # Programming-challenges
-==============================
 
 /g/'s Programming Projects for n00bz. Courtesy of anon from 4chan.
 
